@@ -3,3 +3,6 @@ uma
 atualização 
 do ficheiro
 2
+enviando
+a funcionalidade
+x
