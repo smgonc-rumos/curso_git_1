@@ -12,3 +12,10 @@ _Checkout, **ecrã de produto**, catálogo e página home com um banner_
 
 __Melhoria 1__, _melhoria 2_
 
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
