@@ -55,3 +55,9 @@ function soma(a,b){
 }
 ```
 
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [] Integração com outros pagamentos
+- [] Sistema de bónus na primeira compra
+- [ x ] CSS de redapé
